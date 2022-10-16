@@ -40,7 +40,7 @@ h1,h2,h3,h4,h5,h6{font-size: inherit; font-weight: 400;}
 
 body {
     background-color: #e8e8e8;
-    
+
     
 }
 
@@ -48,7 +48,7 @@ body {
 .Travel {
     width: 67px;
     height: 10px;
-    margin: 168px 594px 28px 671px;
+    margin: 100px 594px 28px 671px;
     opacity: 0.6;
     font-family: Arial;
     font-size: 14px;
