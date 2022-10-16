@@ -1,0 +1,231 @@
+*{
+    padding: 0;
+    margin: 0;
+    border: 0;
+} 
+*,*:before,:after{
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+}
+:focus,:active{outline: none;}
+a:focus, a:active{outline: none;}
+
+nav,footer,header,aside{display: block;}
+
+html,body{
+    height: 100%;
+    width: 100%;
+    font-size: 100%;
+    line-height: 1;
+    font-size: 14px;
+    -ms-text-size-adjust: 100%;
+    -moz-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+input, button,textarea{
+    font-family:inherit;
+}
+
+input:-ms-clear{display: none;}
+button{cursor: pointer;}
+button:-moz-focus-inner {padding: 0;border: 0;}
+a, a:visited {text-decoration: none;}
+a, :hover{text-decoration: none;}
+ul li {list-style: none;}
+img {vertical-align: top;}
+
+h1,h2,h3,h4,h5,h6{font-size: inherit; font-weight: 400;} 
+
+
+body {
+    background-color: #e8e8e8;
+    
+    
+}
+
+
+.Travel {
+    width: 67px;
+    height: 10px;
+    margin: 168px 594px 28px 671px;
+    opacity: 0.6;
+    font-family: Arial;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.86;
+    letter-spacing: 2.8px;
+    text-align: center;
+    color: rgba(39, 61, 70, 0.6);
+    display: block;
+}
+
+.Donec {
+    
+    width: 721px;
+  height: 75px;
+  margin: 28px 262px 77px 347px;
+  font-family: TimesNewRomanPSMT;
+  font-size: 36px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.39;
+  letter-spacing: normal;
+  text-align: center;
+  color: #273d46;
+  display: block;
+}
+
+.man {
+    width: 821px;
+    height: 541px;
+    box-shadow: 0px 15px 65px 0 rgba(15, 16, 16, 0.15);
+    border: solid 15px #fff;
+    margin: 0px 320px 97px 299px;
+    background-image: url(img/back2.png);
+}
+
+.donec-aredsed {
+    width: 736px;
+  height: 257px;
+  margin: 0px 0px 0px 334px;
+  opacity: 0.8;
+  font-family: TimesNewRomanPSMT;
+  font-size: 24px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.67;
+  letter-spacing: normal;
+  text-align: left;
+  color: rgba(39, 61, 70, 0.8);
+  display: block;
+}
+
+.donec-aredsed2 {
+    width: 736px;
+  margin: -100px 0px 64px 334px;
+  opacity: 0.8;
+  font-family: TimesNewRomanPSMT;
+  font-size: 24px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.67;
+  letter-spacing: normal;
+  text-align: left;
+  color: rgba(39, 61, 70, 0.8);
+  display: block;
+}
+
+.Put-on-this-page-information-about-your-product {
+    width: 421px;
+    height: 19px;
+    margin: 0px 544px 13px 367px;
+    text-shadow: 0px 1px 0 rgba(0, 0, 0, 0.3);
+    font-family: Arial;
+    font-size: 20px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.8;
+    letter-spacing: normal;
+    text-align: left;
+    color: #273d46;
+    
+}
+
+.A-detailed-description-of-your-product {
+    width: 332px;
+    height: 19px;
+    margin: 0px 634px 17px 367px;
+    font-family: Arial;
+    font-size: 20px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.8;
+    letter-spacing: normal;
+    text-align: left;
+    color: #80b7b3;
+    display: block;
+}
+
+.Tell-us-about-the-advantages-and-merits {
+    width: 400px;
+    height: 20px;
+    margin: 0px 591px 16px 367px;
+    font-family: Arial;
+    font-size: 20px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.8;
+    letter-spacing: normal;
+    text-align: left;
+    color: #273d46;
+    display: block;
+}
+
+.Associate-the-page-with-the-payment-system {
+    width: 397px;
+    height: 19px;
+    margin: 0px 571px 0px 367px;
+    opacity: 0.5;
+    font-family: Arial;
+    font-size: 20px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.8;
+    letter-spacing: normal;
+    text-align: left;
+    color: rgba(39, 61, 70, 0.3);
+    display: block;
+
+}
+
+.Full-Story {
+    width: 120px;
+    height: 10px;
+    margin: 76px 11px 0px 380px;
+    font-family: Arial;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.86;
+    letter-spacing: 2.8px;
+    text-align: left;
+    color: #fff;
+    display: block;
+    text-transform: uppercase;
+    font-weight: 300;
+    
+    
+}
+
+.Rounded-Rectangle-1 {
+    width: 199px;
+    height: 44px;
+    margin: -12px 803px 50px 360px;
+    padding: 15px 27px 15px 30px;
+    box-shadow: 0px 6px 40px 0 rgba(128, 183, 179, 0.54);
+    background-color: rgba(128, 183, 179, 0.54);
+    border-radius: 30px;
+}
+
+.strelka {
+    margin: 76px 11px 0px 380px;
+    height: 30px;
+    opacity: 0.5;
+    margin: -86px 0px 0px 500px;
+}
+
+.background2 {
+    
+
+}
